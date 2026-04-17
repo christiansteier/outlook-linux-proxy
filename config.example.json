@@ -1,0 +1,13 @@
+{
+    "tenant_id": "YOUR-AZURE-TENANT-ID",
+    "client_id": "9e5f94bc-e8a4-4e73-b8be-63364c29d753",
+    "redirect_uri": "https://localhost",
+    "email": "your.name@your-university.de",
+    "imap_host": "outlook.office365.com",
+    "imap_port": 993,
+    "smtp_host": "smtp.office365.com",
+    "smtp_port": 587,
+    "local_imap_port": 1143,
+    "local_smtp_port": 1025,
+    "local_caldav_port": 1080
+}
